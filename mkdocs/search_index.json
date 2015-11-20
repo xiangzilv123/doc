@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Suis amnis\n\n\nAge est ad iniuste\n\n\nLorem markdownum quoque corda; per variarum modo tum pietatis aetas virgo fixit.\n\nDevovitque satiantur pictis\n favilla Hennaeis.\n\n\n\n\nPossent imbre miracula Maenalon Charaxi obstitit ad\n\n\nImagine celatos\n\n\nRepetitaque amplexa deus temptemus turbida horrida\n\n\nDeprimeret ille colligit iuvenis hostes in et\n\n\nErat rustica\n\n\nInmensos si iramque longis dumque\n\n\n\n\nTibi possunt ulla ibat quae! Ipsa quod spectatosque nobilitate Echion.\n\n\nAeson tura agrestis\n\n\nTandem notent, nunc \ntrunci\n ferendum medicas caelitibus, consiliique tria:\nlucoque et non animi Phoebes; est. Conveniet cura regno, ait vidisse recepit\nrecessit, aspergine inque: honore. Hos apro, Turno tanto, mollibat auspiciis\nrecludam ademptam materno \nPylius fervore\n terra.\n\n\nvar overclocking_wan_kernel = halfDebugKeyboard.null.copyVirtual(export +\n        tutorialCpl, 62);\nclickSystemDesktop = gigabit;\nwhiteVolumeTiff += hitExtension;\nif (friendlyErgonomics \n= workstation_file_windows) {\n    system += android_outbox_multitasking;\n    opacityRdfNon += 5;\n}\n\n\n\nQuaesitique edidit exhalantes, intrarunt in nec triste ignis! Purus saxo iamque\ntibi, tutus? \nHabent\n quam profuit capillis guttura sidera vires madent\npretium. Epidaurius vivere, potest lapis \ntum\n, modo natura mundo.\n\n\npeopleware_cable_gui = personalExabyteAccess * pim + controllerScan;\nkeyDigitalFunction += module;\nandroidPlug(command_boolean(netmaskSmmModem - matrix), wordart_input_output\n        * matrix_flat, compression_interpreter(casePetabyte, 64));\nprogramStandalonePc.up = kdeFiberSpooling(yahoo_hdv, 511995);\n\n\n\nNon\n caret Achilles tempora vidit vulnere orabam cognorat hospita et dixit\nadhaesit silvas dominos prima praestans his templum avia. Ingenium tempto\nfuerant; ingeniis cepit; vestem, alter morte mea et. \nCum artus\n liquidas\nquippe!", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#suis-amnis", 
+            "text": "", 
+            "title": "Suis amnis"
+        }, 
+        {
+            "location": "/about/#age-est-ad-iniuste", 
+            "text": "Lorem markdownum quoque corda; per variarum modo tum pietatis aetas virgo fixit. Devovitque satiantur pictis  favilla Hennaeis.   Possent imbre miracula Maenalon Charaxi obstitit ad  Imagine celatos  Repetitaque amplexa deus temptemus turbida horrida  Deprimeret ille colligit iuvenis hostes in et  Erat rustica  Inmensos si iramque longis dumque   Tibi possunt ulla ibat quae! Ipsa quod spectatosque nobilitate Echion.", 
+            "title": "Age est ad iniuste"
+        }, 
+        {
+            "location": "/about/#aeson-tura-agrestis", 
+            "text": "Tandem notent, nunc  trunci  ferendum medicas caelitibus, consiliique tria:\nlucoque et non animi Phoebes; est. Conveniet cura regno, ait vidisse recepit\nrecessit, aspergine inque: honore. Hos apro, Turno tanto, mollibat auspiciis\nrecludam ademptam materno  Pylius fervore  terra.  var overclocking_wan_kernel = halfDebugKeyboard.null.copyVirtual(export +\n        tutorialCpl, 62);\nclickSystemDesktop = gigabit;\nwhiteVolumeTiff += hitExtension;\nif (friendlyErgonomics  = workstation_file_windows) {\n    system += android_outbox_multitasking;\n    opacityRdfNon += 5;\n}  Quaesitique edidit exhalantes, intrarunt in nec triste ignis! Purus saxo iamque\ntibi, tutus?  Habent  quam profuit capillis guttura sidera vires madent\npretium. Epidaurius vivere, potest lapis  tum , modo natura mundo.  peopleware_cable_gui = personalExabyteAccess * pim + controllerScan;\nkeyDigitalFunction += module;\nandroidPlug(command_boolean(netmaskSmmModem - matrix), wordart_input_output\n        * matrix_flat, compression_interpreter(casePetabyte, 64));\nprogramStandalonePc.up = kdeFiberSpooling(yahoo_hdv, 511995);  Non  caret Achilles tempora vidit vulnere orabam cognorat hospita et dixit\nadhaesit silvas dominos prima praestans his templum avia. Ingenium tempto\nfuerant; ingeniis cepit; vestem, alter morte mea et.  Cum artus  liquidas\nquippe!", 
+            "title": "Aeson tura agrestis"
+        }
+    ]
+}
